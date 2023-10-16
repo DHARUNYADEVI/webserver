@@ -41,6 +41,8 @@ content='''
 <h2>1.Django</h2>
 <h2>2. MEAN Stack</h2>
 <h2>3. React </h2>
+<h2>4.MERN Stack </h2>
+<h2>5.ASP.Net</h2>
 </body>
 </html>
 '''
@@ -59,7 +61,9 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
+### Server output
 ![serveroutput](https://github.com/DHARUNYADEVI/webserver/assets/147473847/c9b50f73-1d62-48ca-b6cf-01e88c39f6a9)
+### Client output
 ![clientoutput](https://github.com/DHARUNYADEVI/webserver/assets/147473847/c2c0784b-67c7-4d8a-b86e-1f7ef394cf71)
 
 ## RESULT:
